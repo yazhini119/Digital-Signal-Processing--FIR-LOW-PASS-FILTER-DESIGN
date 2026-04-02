@@ -46,5 +46,6 @@ plot(w/pi,abs(h),'blue');
 
 
 ## RESULT:
-![Uploading WhatsApp Image 2026-04-02 at 10.51.21 AM.jpeg…]()
+![WhatsApp Image 2026-04-02 at 10 51 21 AM](https://github.com/user-attachments/assets/f8020592-d01d-477c-b7c5-52bc39e5adaa)
+
 
